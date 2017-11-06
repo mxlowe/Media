@@ -19,7 +19,7 @@
 	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, NeuroImage, 157, 586-597</p>
 	Please reference the above paper if using this image database.
 
-	
+<br>	
 <h4>3D-rendered artificial objects</h4>
 <div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s3.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s4.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
@@ -29,7 +29,7 @@
 	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a case of topographical disorientation, Cortex, 92, 70-80</p>
 	Please reference the above paper if using this image database.
 
-	
+<br>	
 <h4>Real-World scenes</h4>
 <div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s5.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s6.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
@@ -39,7 +39,7 @@
 	<p>Lowe, M.X., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Feature diagnosticity and task context shape activity in human scene-selective cortex, NeuroImage, 125, 681-692</p>
 	Please reference the above paper if using this image database.
 
-	
+<br>	
 <h4>3D-rendered objects and scenes</h4>
 <div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s7.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s8.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
