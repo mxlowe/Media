@@ -11,9 +11,8 @@
     		</ul>
 		</nav> 
 <h4>3D-rendered artificial scenes</h4>
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s1.png" height="150" width="150">
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s2.png" height="150" width="150">
 	<br><a href="https://drive.google.com/drive/folders/1j7Aqlxwqftz32LV3j50KZqqxMXq7_2uK?usp=sharing">Download Link</a>
 
 	<p>3D rendered scenes with varying geometry and texture, with and without embedded objects. For more information on this stimuli set, please refer to:
