@@ -10,10 +10,16 @@
         		
     		</ul>
 		</nav> 
-<h4>2017</h4>
-	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif"> Lowe, M.X., Rajsic, J., 		Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object 			and scene perception, NeuroImage, 157, 586-597* 
-		<br>*Featured on the journal cover
-		<br><a href="https://drive.google.com/file/d/0B0k7R9wesPi2TFUyazA0bTU1cVE/view?usp=sharing">PDF</a></p>
+<h4>Artificial 3-dimensional rendered scenes</h4>
+<img align="left" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+
+
+	<p>3D rendered scenes with varying geometry and texture, with and without embedded objects, and isolated objects. For for information on this image database, please refer to:
+	<br>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, NeuroImage, 157, 586-597
+	<br>Please cite the above paper if using this image database.
+
 	<br>
 	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits 			in a case of topographical disorientation, Cortex, 92, 70-80
 		<br><a href="https://drive.google.com/file/d/0B0k7R9wesPi2aFhBcXA5dmNKSUE/view?usp=sharing">PDF</a></p>
