@@ -11,8 +11,8 @@
     		</ul>
 		</nav> 
 <h4>3D-rendered artificial scenes</h4>
-<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s1.png" height="150" width="150">
-<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s2.png" height="150" width="150">
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s1.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s2.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 	<br><a href="https://drive.google.com/drive/folders/1j7Aqlxwqftz32LV3j50KZqqxMXq7_2uK?usp=sharing">Download Link</a>
 
 	<p>3D rendered scenes with varying geometry and texture, with and without embedded objects. For more information on this stimuli set, please refer to:
@@ -21,9 +21,8 @@
 
 	
 <h4>3D-rendered artificial objects</h4>
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s3.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s4.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <br><a href="https://drive.google.com/drive/folders/1a0ca53hTC3d1nXeJ8la7cqe4PxL_1hHq?usp=sharing">Download Link</a></p>
 
 	<p>3D-rendered isolated objects with varying geometry and texture. For more information on this stimuli set, please refer to:
@@ -32,9 +31,8 @@
 
 	
 <h4>Real-World scenes</h4>
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s5.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s6.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <br><a href="https://drive.google.com/drive/folders/0B0k7R9wesPi2eUlTMEJZTXBwV1k?usp=sharing">Download Link</a></p>
 
 	<p>Photographs of real-world scenes from four categories (cities; deserts; indoor rooms; caves) divided into two global properties (content: natural & manmade; spatial boundary: open & closed). For more information on this stimuli set, please refer to:
@@ -43,9 +41,8 @@
 
 	
 <h4>3D-rendered objects and scenes</h4>
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s7.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
+<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s8.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <br><a href="https://drive.google.com/drive/folders/0B0k7R9wesPi2djEyV2Z5QWhwaFE?usp=sharing">Download Link</a></p>
 
 	<p>3D-rendered scenes and objects varying in geometry and texture. For more information on this stimuli set, please refer to:
