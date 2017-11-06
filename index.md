@@ -33,7 +33,7 @@
 <img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s4.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <br><a href="https://drive.google.com/drive/folders/0B0k7R9wesPi2eUlTMEJZTXBwV1k?usp=sharing">Download</a></div>
 
-	<p>Photographs of real-world scenes from four categories (cities; deserts; indoor rooms; caves) divided into two global properties (content: natural & manmade; spatial boundary: open & closed). For more information on this stimuli set, please refer to:
+	<p>Photographs of real-world scenes from four categories (cities; deserts; indoor rooms; caves) divided into two global properties (content: natural & manmade; spatial boundary: open & closed). Each category contains 144 images with twelve layout and twelve texture sets. For more information on this stimuli set, please refer to:
 	<p>Lowe, M.X., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Feature diagnosticity and task context shape activity in human scene-selective cortex, NeuroImage, 125, 681-692</p>
 <br>
 <br>	
