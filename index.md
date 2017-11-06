@@ -30,7 +30,7 @@
 	Please reference the above paper if using this image database.
 <br>
 <br>	
-<h4>Real-World scenes</h4>
+<h4>Real-world scenes</h4>
 <div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s3.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s4.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <br><a href="https://drive.google.com/drive/folders/0B0k7R9wesPi2eUlTMEJZTXBwV1k?usp=sharing">Download</a></div>
