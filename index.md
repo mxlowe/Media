@@ -11,9 +11,9 @@
     		</ul>
 		</nav> 
 <h4>Artificial 3-dimensional rendered scenes</h4>
-<img align="left" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
 <img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
-<img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
+<img align="center" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif">
 
 
 	<p>3D rendered scenes with varying geometry and texture, with and without embedded objects, and isolated objects. For for information on this image database, please refer to:
