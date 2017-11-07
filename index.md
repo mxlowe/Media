@@ -25,7 +25,7 @@
 <br><a href="https://drive.google.com/drive/folders/1a0ca53hTC3d1nXeJ8la7cqe4PxL_1hHq?usp=sharing">Download</a></div>
 
 	<p>3D-rendered isolated objects with varying geometry and texture. For more information on this stimuli set, please refer to:
-	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a case of topographical disorientation, <emCortex</em>, 92, 70-80</p>
+	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a case of topographical disorientation, <em>Cortex</em>, 92, 70-80</p>
 <br>
 <br>	
 <h4>Real-world scenes</h4>
