@@ -3,13 +3,9 @@
 	<title>Matthew X. Lowe</title>
 	</head>
 	<body>
-		<nav>
-    		<ul>
-        		
-        	 
-        		
-    		</ul>
-		</nav> 
+
+<br>
+<br>
 <h4>3D-rendered artificial scenes</h4>
 <div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s1.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
 <img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s2.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
