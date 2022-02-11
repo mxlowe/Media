@@ -7,8 +7,8 @@
 <br>
 <h3>Research in the news</h3>
 		
-    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/">Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal?</a>
+    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/">Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal? <strong> Published in The Denver Post</strong></a>
 		
 		<p>
 		
-		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/">Personality and attention: birds of a feather scoping the return</a>
+		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/">Personality and attention: birds of a feather scoping the return <strong> Published in Psychonomic Society</strong></a>
