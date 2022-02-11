@@ -11,4 +11,4 @@
 		
 		<p>
 		
-		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/">Personality and attention: birds of a feather scoping the return <strong> Published in Psychonomic Society</strong></a>
+		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/">Personality and attention: birds of a feather scoping the return. <strong> Published in Psychonomic Society</strong></a>
