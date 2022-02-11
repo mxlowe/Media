@@ -3,44 +3,10 @@
 	<title>Matthew X. Lowe</title>
 	</head>
 	<body>
-
 <br>
 <br>
-<h4>3D-rendered artificial scenes</h4>
-<div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s1.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s2.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-	<br><a href="https://drive.google.com/drive/folders/1j7Aqlxwqftz32LV3j50KZqqxMXq7_2uK?usp=sharing">Download</a></div>
-
-	<p>3D rendered scenes with varying geometry and texture, with and without embedded objects. For more information on this stimuli set, please refer to:
-	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597</p>
-<br>
-<br>	
-<h4>3D-rendered artificial objects</h4>
-<div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s5.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s6.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<br><a href="https://drive.google.com/drive/folders/1a0ca53hTC3d1nXeJ8la7cqe4PxL_1hHq?usp=sharing">Download</a></div>
-
-	<p>3D-rendered isolated objects with varying geometry and texture. For more information on this stimuli set, please refer to:
-	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a case of topographical disorientation, <em>Cortex</em>, 92, 70-80</p>
-<br>
-<br>	
-<h4>Real-world scenes</h4>
-<div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s3.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s4.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<br><a href="https://drive.google.com/drive/folders/0B0k7R9wesPi2eUlTMEJZTXBwV1k?usp=sharing">Download</a></div>
-
-	<p>Photographs of real-world scenes from four categories (cities; deserts; indoor rooms; caves) divided into two global properties (content: natural & manmade; spatial boundary: open & closed). Each category contains 144 images with twelve layout and twelve texture sets. For more information on this stimuli set, please refer to:
-	<p>Lowe, M.X., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Feature diagnosticity and task context shape activity in human scene-selective cortex, <em>NeuroImage</em>, 125, 681-692</p>
-<br>
-<br>	
-<h4>3D-rendered objects and scenes</h4>
-<div style="text-align:center"><img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s7.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<img align="center" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/s8.png" height="150" width="150" style='border: 0px solid #f00; margin: 0px; box-shadow: none;'>
-<br><a href="https://drive.google.com/drive/folders/0B0k7R9wesPi2djEyV2Z5QWhwaFE?usp=sharing">Download</a></div>
-
-	<p>3D-rendered scenes and objects varying in geometry and texture. For more information on this stimuli set, please refer to:
-	<p>Lowe, M.X., Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference of visual form and texture in object and scene interactions, <em>Vision Research</em>, 117, 34-40</p>
-
-
-
-  
+<h3>Research in the news</h3>
+		
+    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/#comments-anchor">Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal?</a>
+		
+		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/">Personality and attention: birds of a feather scoping the return</a>
