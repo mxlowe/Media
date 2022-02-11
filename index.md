@@ -7,7 +7,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/#comments-anchor">Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal?</a>
+    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/">Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal?</a>
 		
 		<p>
 		
