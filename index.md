@@ -9,4 +9,6 @@
 		
     <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/#comments-anchor">Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal?</a>
 		
+		<p>
+		
 		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/">Personality and attention: birds of a feather scoping the return</a>
