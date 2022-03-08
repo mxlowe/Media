@@ -7,7 +7,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-		<a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight.</a>
+		<a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.</a>
 		
 		<p>
 			<p>
