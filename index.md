@@ -7,6 +7,11 @@
 <br>
 <h3>Research in the news</h3>
 		
+		<a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a>
+		
+		<p>
+			<p>
+		
 		<a href="https://www.vice.com/en/article/xgdpan/what-is-microdosing-psychedelic-mushrooms-lsd-drugs-guide-effects-benefits-risks"><strong>How to Microdose Drugs Based on What You’re Using. </strong> Interview and featured research published in VICE.</a>
 		
 		<p>
