@@ -7,7 +7,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-		<a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a>
+		<a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight. Republished by Unlimited Sciences.</a>
 		
 		<p>
 			<p>
