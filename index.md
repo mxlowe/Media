@@ -26,7 +26,7 @@
 		<p>
 			<p>
 		
-		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/psychonomic.jpg" width="100" height="100"><a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.</a>
+		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="100" height="100"><a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.</a>
 		
 		<p>
 			<p>
