@@ -10,6 +10,7 @@
 		<br />		
 <br />
 		<br />
+		<br />
 		
 		<p class="dib v-mid"><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="100" height="100"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a></p>
 		
