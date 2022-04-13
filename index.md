@@ -32,4 +32,4 @@
 		<p>
 			<p>
 		
-		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/"><strong>Personality and Attention: Birds of a Feather Scoping the Return. </strong> Featured research published in Psychonomic Society.</a>
+		 <img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/psychonomic.jpg"><a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/"><strong>Personality and Attention: Birds of a Feather Scoping the Return. </strong> Featured research published in Psychonomic Society.</a>
