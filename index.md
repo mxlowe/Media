@@ -7,17 +7,15 @@
 <br>
 <h3>Research in the news</h3>
 		<p><p class="dib v-mid"><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/happi.jpg" width="75" height="75"><a href="https://www.happi.com/issues/2022-03-31/view_editorials/lead-with-science/"><strong>Lead with Science. </strong> Interview and featured research published in Happi.
-		<br />		
+<br />		
 <br />
-		<br />
+<br />
 
 		
-		<p class="dib v-mid"><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a></p>
-		
-		<p>
-			<p>
-				<br>
-				<br>
+		<p><p class="dib v-mid"><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a></p>
+<br />	
+<br />
+
 
 		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/VICE.png" width="75" height="75"><a href="https://www.vice.com/en/article/xgdpan/what-is-microdosing-psychedelic-mushrooms-lsd-drugs-guide-effects-benefits-risks"><strong>How to Microdose Drugs Based on What You’re Using. </strong> Interview and featured research published in VICE.</a></p>
 		
