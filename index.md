@@ -12,7 +12,7 @@
 <br />
 
 		
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.jpg" width="75" height="75"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.
 <br />	
 <br />
 <br />
@@ -21,7 +21,7 @@
 <br />
 <br />
 		
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.jpg" width="75" height="75"><a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.
 <br />
 <br />
 		
