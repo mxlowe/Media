@@ -7,7 +7,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-		<a href="https://www.happi.com/issues/2022-03-31/view_editorials/lead-with-science/"><strong>Lead with Science. </strong> Interview and featured research published in Happi. Republished in Beauty Packaging</a>
+		<a href="https://www.happi.com/issues/2022-03-31/view_editorials/lead-with-science/"><strong>Lead with Science. </strong> Interview and featured research published in Happi.</a>
 		
 		<p>
 			<p>
