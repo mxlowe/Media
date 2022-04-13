@@ -7,6 +7,11 @@
 <br>
 <h3>Research in the news</h3>
 		
+		<a href="https://www.happi.com/issues/2022-03-31/view_editorials/lead-with-science/"><strong>Lead with Science. </strong> Interview and featured research published in Happi.</a>
+		
+		<p>
+			<p>
+		
 		<a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight. Republished by Unlimited Sciences.</a>
 		
 		<p>
@@ -22,9 +27,9 @@
 		<p>
 			<p>
 		
-    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/"><strong>Mushroom rabbi grows ceremonial psilocybin for Denver congregation — but is that legal? </strong> Interview and featured research published in the The Sunday Denver Post, and The Denver Post Online. Additionally, syndicated to Daily Camera, The Sun, Inland Valley Daily Bulletin, San Gabriel Valley Tribune, Press-Telegram, Greeley Tribune, Burlington Record, Cannabis Law Report, Hispanic Business TV, TodayHeadline, Orange County Register, Colorado Daily, and The Mercury News.</a>
+    <a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/"><strong>Mushroom Rabbi Grows Ceremonial Psilocybin for Denver Congregation — but is that legal? </strong> Interview and featured research published in the The Sunday Denver Post, and The Denver Post Online. Additionally, syndicated to Daily Camera, The Sun, Inland Valley Daily Bulletin, San Gabriel Valley Tribune, Press-Telegram, Greeley Tribune, Burlington Record, Cannabis Law Report, Hispanic Business TV, TodayHeadline, Orange County Register, Colorado Daily, and The Mercury News.</a>
 		
 		<p>
 			<p>
 		
-		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/"><strong>Personality and attention: birds of a feather scoping the return. </strong> Featured research published in Psychonomic Society.</a>
+		 <a href="https://featuredcontent.psychonomic.org/personality-and-attention-birds-of-a-feather-scoping-the-return/"><strong>Personality and Attention: Birds of a Feather Scoping the Return. </strong> Featured research published in Psychonomic Society.</a>
