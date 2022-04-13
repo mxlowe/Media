@@ -12,6 +12,7 @@
 		<p>
 			<p>
 				<br>
+				<br>
 <br>
 		
 		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="100" height="100"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a>
@@ -25,11 +26,13 @@
 		<p>
 			<p>
 				<br>
+				<br>
 		
 		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="100" height="100"><a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.</a>
 		
 		<p>
 			<p>
+				<br>
 				<br>
 		
     <img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/The-Denver-Post.square.jpg" width="100" height="100"><a href="https://www.denverpost.com/2022/02/11/denver-mushrooms-psilocybin-sacred-tribe/"><strong>Mushroom Rabbi Grows Ceremonial Psilocybin for Denver Congregation — but is that legal? </strong> Interview and featured research published in the The Sunday Denver Post, and The Denver Post Online. Additionally, syndicated to Daily Camera, The Sun, Inland Valley Daily Bulletin, San Gabriel Valley Tribune, Press-Telegram, Greeley Tribune, Burlington Record, Cannabis Law Report, Hispanic Business TV, TodayHeadline, Orange County Register, Colorado Daily, and The Mercury News.</a>
