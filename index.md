@@ -6,7 +6,7 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		<p><p class="dib v-mid"><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/happi.jpg" width="100" height="100"><br /><a href="https://www.happi.com/issues/2022-03-31/view_editorials/lead-with-science/"><strong>Lead with Science. </strong> Interview and featured research published in Happi.
+		<p><p class="dib v-mid"><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/happi.jpg" width="75" height="75"><br /><a href="https://www.happi.com/issues/2022-03-31/view_editorials/lead-with-science/"><strong>Lead with Science. </strong> Interview and featured research published in Happi.
 		<br />		
 <br />
 
