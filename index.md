@@ -11,20 +11,22 @@
 		
 		<p>
 			<p>
-				<p>
-					<p>
+				<br>
+<br>
 		
 		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="100" height="100"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.</a>
 		
 		<p>
 			<p>
-				<p>
-					<p>
+				<br>
+<br>
 		
 		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/VICE.png" width="100" height="100"><a href="https://www.vice.com/en/article/xgdpan/what-is-microdosing-psychedelic-mushrooms-lsd-drugs-guide-effects-benefits-risks"><strong>How to Microdose Drugs Based on What You’re Using. </strong> Interview and featured research published in VICE.</a>
 		
 		<p>
 			<p>
+				<br>
+<br>
 		
 		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="100" height="100"><a href="https://psychedelicspotlight.com/road-to-psychedelics-legalization/"><strong>The Road to Psychedelics Legalization. </strong> Invited guest column published in Psychedelic Spotlight. Republished with permission in Benzinga.</a>
 		
