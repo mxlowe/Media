@@ -13,18 +13,18 @@
 <br />		
 <br />
 <br />
-			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PCE.JPG" width="75" height="75"><a href="https://psilocibinaenespanol.com/un-futuro-ilusionante-by-unlimited-science/"><strong>Psilocibina Ciencia y Experiencia. </strong> Interview and featured research published in Happi.
-<br />		
-<br />
-<br />
-
-		
+			
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/data-driven-guide-to-microdosing-psychedelics/"><strong>A Data-Driven Guide to Microdosing Psychedelics. </strong> Invited guest column published in Psychedelic Spotlight.
 <br />	
 <br />
 <br />
 
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/VICE.png" width="75" height="75"><a href="https://www.vice.com/en/article/xgdpan/what-is-microdosing-psychedelic-mushrooms-lsd-drugs-guide-effects-benefits-risks"><strong>How to Microdose Drugs Based on What You’re Using. </strong> Interview and featured research published in VICE.
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PCE.JPG" width="75" height="75"><a href="https://psilocibinaenespanol.com/un-futuro-ilusionante-by-unlimited-science/"><strong>Psilocibina Ciencia y Experiencia. </strong> Profile published in Psilocibina Espanol.
+<br />		
+<br />
+<br />
+
+		 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/VICE.png" width="75" height="75"><a href="https://www.vice.com/en/article/xgdpan/what-is-microdosing-psychedelic-mushrooms-lsd-drugs-guide-effects-benefits-risks"><strong>How to Microdose Drugs Based on What You’re Using. </strong> Interview and featured research published in VICE.
 <br />
 <br />
 		
