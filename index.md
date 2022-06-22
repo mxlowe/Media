@@ -6,7 +6,10 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/ganjapreneur-logo-square.jpg" width="75" height="75"><a href="https://www.ganjapreneur.com/matthew-x-lowe-advancing-medicinal-cannabis-psychedelics-research/"><strong>Matthew X. Lowe: Advancing Medicinal Cannabis & Psychedelics Research. </strong> Interview and featured research published in Ganjapreneur.
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/THE-EMERALD-LOGO-2048x1170.png" width="75" height="75"><a href="https://theemeraldmagazine.com/psychedelic-health/"><strong>The Next Steps in Psychedelic Health Treatment </strong> Interview and featured research published in The Emerald Magazine.
+<br />		
+<br />
+			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/ganjapreneur-logo-square.jpg" width="75" height="75"><a href="https://www.ganjapreneur.com/matthew-x-lowe-advancing-medicinal-cannabis-psychedelics-research/"><strong>Matthew X. Lowe: Advancing Medicinal Cannabis & Psychedelics Research. </strong> Interview and featured research published in Ganjapreneur.
 <br />		
 <br />
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NW.JPG" width="75" height="75"><a href="https://www.nutraceuticalsworld.com/contents/view_features/2022-04-14/beyond-cbd-cannabis-compounds-warrant-recognition-/"><strong>Beyond CBD: Cannabis Compounds Warrant Recognition and More Research. </strong> Interview and featured research published in Nutraceuticals World.
