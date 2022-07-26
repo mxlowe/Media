@@ -6,6 +6,10 @@
 <br>
 <br>
 <h3>Research in the news</h3>
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/exploring-the-history-and-therapeutic-potential-of-ayahuasca/"><strong>Exploring the History and Therapeutic Potential of Ayahuasca. </strong> Invited guest column published in Psychedelic Spotlight.
+<br />		
+<br />
+		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/THE-EMERALD-LOGO-2048x1170.png" width="75" height="75"><a href="https://theemeraldmagazine.com/psychedelic-health/"><strong>The Next Steps in Psychedelic Health Treatment. </strong> Interview and featured research published in The Emerald Magazine.
 <br />		
 <br />
