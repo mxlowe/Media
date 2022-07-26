@@ -6,7 +6,7 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://cannatechtoday.com/is-the-medical-cannabis-industry-failing-patients/"><strong>Is the Medical Cannabis Industry Failing Patients? </strong> Interview published in Cannabis & Tech Today.
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/cannabis-technology-today-logo.jpg" width="75" height="75"><a href="https://cannatechtoday.com/is-the-medical-cannabis-industry-failing-patients/"><strong>Is the Medical Cannabis Industry Failing Patients? </strong> Interview published in Cannabis & Tech Today.
 <br />		
 <br />" 
 		
