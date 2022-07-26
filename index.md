@@ -6,7 +6,7 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		<p><img align="left" src="<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://cannatechtoday.com/is-the-medical-cannabis-industry-failing-patients/"><strong>Is the Medical Cannabis Industry Failing Patients? </strong> Interview published in Cannabis & Tech Today.
+		<img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://cannatechtoday.com/is-the-medical-cannabis-industry-failing-patients/"><strong>Is the Medical Cannabis Industry Failing Patients? </strong> Interview published in Cannabis & Tech Today.
 <br />		
 <br />" width="75" height="75"><a href="https://psychedelicspotlight.com/exploring-the-history-and-therapeutic-potential-of-ayahuasca/"><strong>Exploring the History and Therapeutic Potential of Ayahuasca. </strong> Invited guest column published in Psychedelic Spotlight.
 <br />		
