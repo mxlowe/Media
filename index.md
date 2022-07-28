@@ -6,10 +6,10 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/news/dea-rescinds-proposal-to-ban-five-psychedelic-drugs/"><strong>DEA Rescinds Proposal to Ban Five Psychedelic Drugs.</a>
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/news/dea-rescinds-proposal-to-ban-five-psychedelic-drugs/"><strong>DEA Rescinds Proposal to Ban Five Psychedelic Drugs.</strong> Interview featured in High Times.</a>
 <br />		
 <br />
-			<br />
+<br />
 					<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/cannabis-technology-today-logo.jpg" width="75" height="75"><a href="https://cannatechtoday.com/is-the-medical-cannabis-industry-failing-patients/"><strong>Is the Medical Cannabis Industry Failing Patients? </strong> Interview published in Cannabis & Tech Today.</a>
 <br />		
 <br />
