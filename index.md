@@ -6,6 +6,15 @@
 <br>
 <br>
 <h3>Research in the news</h3>
+		
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20220802005431/en/Unlimited-Sciences-Announces-Groundbreaking-New-Study-to-Observe-Ayahuasca%E2%80%99s-Effects-on-Trauma"><strong>Unlimited Sciences Announces Groundbreaking New Study to Observe Ayahuasca’s Effects on Trauma.</strong> Press Release published in Businesswire and syndicated to Yahoo Finance.</a>
+<br />		
+<br />
+		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/DB.png" width="75" height="75"><a href="https://doubleblindmag.com/ayahuasca-to-refugees/"><strong>Study to Analyze Ayahuasca for Refugee Trauma.</strong> Interview and featured research published in Double Blind.</a>
+<br />		
+<br />
+		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/news/dea-rescinds-proposal-to-ban-five-psychedelic-drugs/"><strong>DEA Rescinds Proposal to Ban Five Psychedelic Drugs.</strong> Interview featured in High Times.</a>
 <br />		
 <br />
