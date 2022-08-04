@@ -11,7 +11,7 @@
 <br />		
 <br />
 		
-				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20220802005431/en/Unlimited-Sciences-Announces-Groundbreaking-New-Study-to-Observe-Ayahuasca%E2%80%99s-Effects-on-Trauma"><strong>Unlimited Sciences Announces Groundbreaking New Study to Observe Ayahuasca’s Effects on Trauma.</strong> Press Release published in Businesswire and syndicated to Yahoo Finance.</a>
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20220802005431/en/Unlimited-Sciences-Announces-Groundbreaking-New-Study-to-Observe-Ayahuasca%E2%80%99s-Effects-on-Trauma"><strong>Unlimited Sciences Announces Groundbreaking New Study to Observe Ayahuasca’s Effects on Trauma.</strong> Press Release published in Businesswire and syndicated to Yahoo Finance and The Chicago Tribune.</a>
 <br />		
 <br />
 		
