@@ -8,6 +8,8 @@
 <h3>Research in the news</h3>
 		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/culture/normalizing-psychedelics-an-interview-with-matthew-x-lowe/"> <strong> Normalizing Psychedelics: An Interview with Matthew X. Lowe. </strong> Interview featured in High Times. Syndicated to Culture Magazine and Savvy Herb</a>
+<br />		
+<br />
 		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/ethos.png" width="75" height="75"><a href="https://the-ethos.co/psychedelic-treatment-depression-legislation/"><strong>Americans Want Psychedelic Treatments for Depression. Will Legislation Catch Up?.</strong> Interview and featured research published in The Ethos.</a>
 <br />		
