@@ -9,7 +9,6 @@
 		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/finanztr.jpg" width="75" height="75"><a href="https://www.finanztrends.de/psychedelische-behandlungen-variieren-stark-nach-kosten-und-setting-wie-steht-es-um-die-wirksamkeit/"> <strong> Psychedelische Behandlungen variieren stark nach Kosten und Setting, wie steht es um die Wirksamkeit? (Psychedelic treatments vary greatly in cost and setting, what about effectiveness?). </strong> Interview and featured research published in Finanz Trends. </a>
 <br />		
-<br />
 		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/culture/normalizing-psychedelics-an-interview-with-matthew-x-lowe/"> <strong> Normalizing Psychedelics: An Interview with Matthew X. Lowe. </strong> Interview featured in High Times. Syndicated to Culture Magazine and Savvy Herb</a>
 <br />		
