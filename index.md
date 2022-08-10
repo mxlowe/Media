@@ -7,6 +7,10 @@
 <br>
 <h3>Research in the news</h3>
 		
+		<p><img align="left" src="https://github.com/mxlowe/mxlowe.github.io/blob/master/finanz.JPG" width="75" height="75"><a href="https://www.finanztrends.de/psychedelische-behandlungen-variieren-stark-nach-kosten-und-setting-wie-steht-es-um-die-wirksamkeit/"> <strong> Psychedelische Behandlungen variieren stark nach Kosten und Setting, wie steht es um die Wirksamkeit? (Psychedelic treatments vary greatly in cost and setting, what about effectiveness?). </strong> Interview and featured research published in Finanz Trends. </a>
+<br />		
+<br />
+		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/culture/normalizing-psychedelics-an-interview-with-matthew-x-lowe/"> <strong> Normalizing Psychedelics: An Interview with Matthew X. Lowe. </strong> Interview featured in High Times. Syndicated to Culture Magazine and Savvy Herb</a>
 <br />		
 <br />
@@ -14,6 +18,10 @@
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/ethos.png" width="75" height="75"><a href="https://the-ethos.co/psychedelic-treatment-depression-legislation/"><strong>Americans Want Psychedelic Treatments for Depression. Will Legislation Catch Up?.</strong> Interview and featured research published in The Ethos.</a>
 <br />		
 <br />
+			
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/the-psychedelic-logo.png" width="75" height="75"><a href="https://thepsychedelic.com/psychedelic-research-picks-up-momentum-as-congress-signals-for-federal-funding/"> <strong> Psychedelic Research Picks Up Momentum As Congress Signals for Federal Funding. </strong> Interview published in The Psychedelic. </a>
+<br />		
+<br />	
 		
 				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20220802005431/en/Unlimited-Sciences-Announces-Groundbreaking-New-Study-to-Observe-Ayahuasca%E2%80%99s-Effects-on-Trauma"><strong>Unlimited Sciences Announces Groundbreaking New Study to Observe Ayahuasca’s Effects on Trauma.</strong> Press Release published in Businesswire and syndicated to Yahoo Finance and The Chicago Tribune.</a>
 <br />		
