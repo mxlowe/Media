@@ -19,7 +19,7 @@
 <br />		
 <br />
 			
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/the-psychedelic-logo.png" width="75" height="75"><a href="https://thepsychedelic.com/psychedelic-research-picks-up-momentum-as-congress-signals-for-federal-funding/"> <strong> Psychedelic Research Picks Up Momentum As Congress Signals for Federal Funding. </strong> Interview published in The Psychedelic. </a>
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/the-psychedelic-logo.png" width="75" height="75"><a href="https://thepsychedelic.com/psychedelic-research-picks-up-momentum-as-congress-signals-for-federal-funding/"> <strong> Psychedelic Research Picks Up Momentum As Congress Signals for Federal Funding. </strong> Interview and featured research published in The Psychedelic. </a>
 <br />		
 <br />	
 		
