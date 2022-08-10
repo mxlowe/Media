@@ -7,7 +7,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-		<p><img align="left" src="https://github.com/mxlowe/mxlowe.github.io/blob/master/finanzt.PNG" width="75" height="75"><a href="https://www.finanztrends.de/psychedelische-behandlungen-variieren-stark-nach-kosten-und-setting-wie-steht-es-um-die-wirksamkeit/"> <strong> Psychedelische Behandlungen variieren stark nach Kosten und Setting, wie steht es um die Wirksamkeit? (Psychedelic treatments vary greatly in cost and setting, what about effectiveness?). </strong> Interview and featured research published in Finanz Trends. </a>
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/finanztr.jpg" width="75" height="75"><a href="https://www.finanztrends.de/psychedelische-behandlungen-variieren-stark-nach-kosten-und-setting-wie-steht-es-um-die-wirksamkeit/"> <strong> Psychedelische Behandlungen variieren stark nach Kosten und Setting, wie steht es um die Wirksamkeit? (Psychedelic treatments vary greatly in cost and setting, what about effectiveness?). </strong> Interview and featured research published in Finanz Trends. </a>
 <br />		
 <br />
 		
