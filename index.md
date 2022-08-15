@@ -7,6 +7,10 @@
 <br>
 <h3>Research in the news</h3>
 		
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/healio.png" width="75" height="75"><a href="https://www.healio.com/news/psychiatry/20220812/study-to-investigate-ayahuascas-effects-on-trauma-linked-to-migration"> <strong> Study to investigate ayahuasca’s effects on trauma linked to migration </strong> Interview and featured research published in Healio. </a>
+<br />		
+<br />	
+		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/BZ.png" width="75" height="75"><a href="https://www.benzinga.com/news/22/07/28275674/psychedelic-treatments-vary-greatly-by-cost-and-setting-what-about-efficacy"> <strong> Psychedelic Treatments Vary Greatly By Cost And Setting, What About Efficacy? </strong> Interview and featured research published in Benzinga. Syndicated to Yahoo! and Finanz Trends. </a>
 <br />		
 <br />		
