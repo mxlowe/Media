@@ -6,7 +6,10 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/an-ayahuasca-ceremony-to-heal-refugee-trauma/"><strong> Can an Ayahuasca Ceremony Heal Immigrant and Refugee Trauma? </strong> Guest column published in Psychedelic Spotlight.</a>
+<br />	
+<br />
+
 				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/filter-logo.png" width="75" height="75"><a href="https://filtermag.org/ayahuasca-refugees-trauma/"> <strong> Can Ayahuasca Help to Heal Refugees’ Trauma? </strong> Interview and featured research published in Filter. </a>
 <br />		
 <br />	
