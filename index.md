@@ -6,6 +6,10 @@
 <br>
 <br>
 <h3>Research in the news</h3>
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/forbes_1200x1200.jpg" width="75" height="75"><a href="https://www.forbes.com/sites/ajherrington/2022/09/21/colorado-will-vote-on-legalizing-psychedelic-mushrooms-in-november/?sh=5e80e3af601a"><strong> Colorado Will Vote On Legalizing Psychedelic Mushrooms In November </strong> Interview published in Forbes.</a>
+<br />	
+<br />
+		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/an-ayahuasca-ceremony-to-heal-refugee-trauma/"><strong> Can an Ayahuasca Ceremony Heal Immigrant and Refugee Trauma? </strong> Guest column published in Psychedelic Spotlight.</a>
 <br />	
 <br />
