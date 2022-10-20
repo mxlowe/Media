@@ -7,7 +7,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-						<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/make-way-for-magic-mushrooms-colorado-to-vote-on-psychedelics-legalization-amid-mental-health-crisis.html"><strong> Make way for magic mushrooms: Colorado to vote on psychedelics legalization amid mental health crisis. </strong> Interview and featured research published in Forbes. Syndicated to US Today, Galaxy Concerns, The Upple, The Web Serv, MXN News, and the Bharate Express News.</a>
+						<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/make-way-for-magic-mushrooms-colorado-to-vote-on-psychedelics-legalization-amid-mental-health-crisis.html"><strong> Make way for magic mushrooms: Colorado to vote on psychedelics legalization amid mental health crisis. </strong> Interview and featured research published in Nutrition Insight.</a>
 <br />	
 							
 				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/forbes_1200x1200.jpg" width="75" height="75"><a href="https://www.forbes.com/sites/ajherrington/2022/09/21/colorado-will-vote-on-legalizing-psychedelic-mushrooms-in-november/?sh=5e80e3af601a"><strong> Colorado Will Vote On Legalizing Psychedelic Mushrooms In November. </strong> Interview and featured research published in Forbes. Syndicated to US Today, Galaxy Concerns, The Upple, The Web Serv, MXN News, and the Bharate Express News.</a>
