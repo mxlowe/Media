@@ -45,6 +45,9 @@
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/the-psychedelic-logo.png" width="75" height="75"><a href="https://thepsychedelic.com/psychedelic-research-picks-up-momentum-as-congress-signals-for-federal-funding/"> <strong> Psychedelic Research Picks Up Momentum As Congress Signals for Federal Funding. </strong> Interview and featured research published in The Psychedelic. </a>
 <br />		
 <br />	
+			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychH.JPG" width="75" height="75"><a href="https://psychedelichealth.co.uk/2022/08/24/groundbreaking-study-to-investigate-ayahuasca-for-trauma/"><strong>Groundbreaking study to investigate Ayahuasca for trauma.</strong> Press Release published in Psychedelic Health.</a>
+<br />		
+<br />
 		
 				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20220802005431/en/Unlimited-Sciences-Announces-Groundbreaking-New-Study-to-Observe-Ayahuasca%E2%80%99s-Effects-on-Trauma"><strong>Unlimited Sciences Announces Groundbreaking New Study to Observe Ayahuasca’s Effects on Trauma.</strong> Press Release published in Businesswire and syndicated to Yahoo Finance and The Chicago Tribune.</a>
 <br />		
