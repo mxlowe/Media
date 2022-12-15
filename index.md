@@ -6,6 +6,9 @@
 <br>
 <br>
 <h3>Research in the news</h3>
+			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/ganjapreneur-logo-square.jpg" width="75" height="75"><a href="https://www.ganjapreneur.com/2023-cannabis-industry-predictions-cultivation-agtech-science-hemp-psychedelics/"><strong>2023 Cannabis Industry Predictions: Cultivation, Agtech, Science, Hemp, & Psychedelics. </strong> Interview published in Ganjapreneur.</a>
+<br />		
+<br />
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/news/colorado-voters-approve-psychedelics-decriminalization-measure/amp/"> <strong> Colorado Voters Approve Psychedelics Decriminalization Measure. </strong> Interview featured in High Times. </a>
 <br />		
 <br />
