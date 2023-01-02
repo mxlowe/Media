@@ -6,6 +6,10 @@
 <br>
 <br>
 <h3>Research in the news</h3>
+		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/annual-review-industry-continues-innovation-charge-amid-inflation-climate-change-and-malnutrition-fears.html"><strong> Annual review: Industry continues innovation charge amid inflation, climate change and malnutrition fears. </strong> Interview published in Nutrition Insight.</a>
+<br />	
+							<br />
 			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/ganjapreneur-logo-square.jpg" width="75" height="75"><a href="https://www.ganjapreneur.com/2023-cannabis-industry-predictions-cultivation-agtech-science-hemp-psychedelics/"><strong>2023 Cannabis Industry Predictions: Cultivation, Agtech, Science, Hemp, & Psychedelics. </strong> Interview published in Ganjapreneur.</a>
 <br />		
 <br />
