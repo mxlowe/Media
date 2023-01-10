@@ -16,6 +16,9 @@
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/HTp.PNG" width="75" height="75"><a href="https://hightimes.com/news/colorado-voters-approve-psychedelics-decriminalization-measure/amp/"> <strong> Colorado Voters Approve Psychedelics Decriminalization Measure. </strong> Interview featured in High Times. </a>
 <br />		
 <br />
+			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/SJ.jpg" width="75" height="75"><a href="https://sweetjanemag.com/magic-mushrooms-and-the-midterms/"><strong> Magic Mushrooms and the Midterms. </strong> Interview and featured research published in Sweet Jane.</a>
+<br />	
+							<br />
 						<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/make-way-for-magic-mushrooms-colorado-to-vote-on-psychedelics-legalization-amid-mental-health-crisis.html"><strong> Make way for magic mushrooms: Colorado to vote on psychedelics legalization amid mental health crisis. </strong> Interview and featured research published in Nutrition Insight.</a>
 <br />	
 							<br />
