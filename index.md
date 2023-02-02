@@ -9,6 +9,7 @@
 		
 				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Alive.JPG" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/"><strong> Plant Allies for Mental Health. </strong> Interview published in Alive Magazine.</a>
 <br />	
+<br />	
 					<br />	
 		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/new-in-psychedelics-study-says-ibogaine-and-psilocybin-hold-potential-to-treat-addiction.html?utm_source=linkedin&utm_medium=social&utm_campaign=eh"><strong> New in psychedelics: Study says ibogaine and psilocybin hold potential to treat addiction. </strong> Interview published in Nutrition Insight.</a>
