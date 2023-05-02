@@ -13,7 +13,7 @@
 <br />	
 <br />	
 				<br />	
-				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Alive.JPG" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/"> Plant Allies for Mental Health. <strong> Interview Published in Alive Magazine</strong></a>
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Alive.JPG" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/"> <strong>Plant Allies for Mental Health. </strong> Interview Published in Alive Magazine</a>
 <br />	
 <br />	
 				
