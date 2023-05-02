@@ -6,10 +6,13 @@
 <br>
 <br>
 <h3>Research in the news</h3>
+			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/download.jpg" width="75" height="75"><a href="https://www.benzinga.com/markets/cannabis/23/05/32146745/study-asserts-cbd-use-can-result-in-positive-thc-test-expert-explains-how-and-what-increases-ris"><strong> Study Asserts CBD Use Can Result In Positive THC Test, Expert Explains How And What Increases Risks. <strong> Interview published in Benzinga.</strong></a>
+<br />	
+<br />	
 			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/download.jpg" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/"><strong> Researchers, Advocates and Medical Professionals Come Together for the Inaugural “Aspen Psychedelic Symposium”.</a>
 <br />	
 <br />	
-				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Alive.JPG" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/"><strong> Plant Allies for Mental Health. </strong> Aspen Public Radio.</a>
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Alive.JPG" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/">Plant Allies for Mental Health. <strong> Interview Published in Alive Magazine</strong></a>
 <br />	
 <br />	
 				
