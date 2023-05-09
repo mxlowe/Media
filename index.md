@@ -3,9 +3,14 @@
 	<title>Matthew X. Lowe</title>
 	</head>
 	<body>
+		
 <br>
 <br>
 <h3>Research in the news</h3>
+		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/baptist.JPG" width="75" height="75"><a href="https://baptistnews.com/article/gods-plant-has-cured-kids-now-the-new-frontier-is-psychedelics/"><strong>‘God’s plant’ has cured kids, now the new frontier is psychedelics. </strong> Interview published in Baptist Global News. </a>
+<br />	
+<br />	
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/webmd-logo-2.jpeg" width="75" height="75"><a href="https://www.webmd.com/a-to-z-guides/news/20230420/is-this-a-new-era-of-medical-marijuana-breakthroughs?src=RSS_PUBLIC"><strong>Is This a New Era of Medical Marijuana Breakthroughs?. </strong> Interview published in WebMD. Syndicated to ReportWire, SwiftTelecast, My Droll, Today News 24, Health Reporter, Head Topics, and Medscape </a>
 <br />	
 <br />	
