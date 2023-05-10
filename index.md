@@ -18,7 +18,7 @@
 <br />	
 <br />	
 				
-			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/download.jpg" width="75" height="75"><a href="https://www.alive.com/health/plant-allies-for-mental-health/"><strong> Researchers, Advocates and Medical Professionals Come Together for the Inaugural “Aspen Psychedelic Symposium”. </strong> Aspen Public Radio</a>
+			<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/download.jpg" width="75" height="75"><a href="https://www.aspenpublicradio.org/station-news/2023-04-19/researchers-advocates-and-medical-professionals-come-together-for-the-inaugural-aspen-psychedelic-symposium"><strong> Researchers, Advocates and Medical Professionals Come Together for the Inaugural “Aspen Psychedelic Symposium”. </strong> Aspen Public Radio</a>
 <br />	
 <br />	
 
