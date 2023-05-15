@@ -8,7 +8,14 @@
 <br>
 <h3>Research in the news</h3>
 		
-		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/baptist.JPG" width="75" height="75"><a href="https://baptistnews.com/article/gods-plant-has-cured-kids-now-the-new-frontier-is-psychedelics/"><strong>‘God’s plant’ has cured kids, now the new frontier is psychedelics. </strong> Interview published in Baptist Global News. </a>
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/gazette.png" width="75" height="75"><a href="Colorado Springs nonprofit that pioneered CBD for epileptic seizures now exploring psychedelics"><strong>Symposium in Aspen a day-long dive into healing with psychedelics. </strong> Interview featured in The Gazette </a>
+<br />	
+<br />	
+		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/aspen_times.jpg" width="75" height="75"><a href="https://www.aspentimes.com/news/symposium-in-aspen-a-day-long-dive-into-healing-with-psychedelics/"><strong>Symposium in Aspen a day-long dive into healing with psychedelics. </strong> Feature for upcoming symposium in Aspen Times. </a>
+<br />	
+<br />	
+					<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/baptist.JPG" width="75" height="75"><a href="https://baptistnews.com/article/gods-plant-has-cured-kids-now-the-new-frontier-is-psychedelics/"><strong>‘God’s plant’ has cured kids, now the new frontier is psychedelics. </strong> Interview published in Baptist Global News. </a>
 <br />	
 <br />	
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/webmd-logo-2.jpeg" width="75" height="75"><a href="https://www.webmd.com/a-to-z-guides/news/20230420/is-this-a-new-era-of-medical-marijuana-breakthroughs?src=RSS_PUBLIC"><strong>Is This a New Era of Medical Marijuana Breakthroughs?. </strong> Interview published in WebMD. Syndicated to ReportWire, SwiftTelecast, My Droll, Today News 24, Health Reporter, Head Topics, and Medscape </a>
