@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/biglife.png" width="75" height="75"><a href="https://www.biglifemag.com/learn-from-experts-at-the-aspen-psychedelic-symposium/"><strong>Learn from Experts at the Aspen Psychedelic Symposium.</strong> Feature for upcoming symposium in Big Life Magazine</a>
+<br />	
+<br />	
+		
 				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/gazette.png" width="75" height="75"><a href="https://gazette.com/nonprofit/sister-organization-to-colorado-nonprofit-that-pioneered-cbd-for-epileptic-seizures-exploring-psychedelics/article_9e100f86-ef50-11ed-9b14-a72aef602e12.html"><strong>Sister organization to Colorado nonprofit that pioneered CBD for epileptic seizures exploring psychedelics.</strong> Interview featured in The Gazette.</a>
 <br />	
 <br />	
