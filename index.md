@@ -8,7 +8,7 @@
 <br>
 <h3>Research in the news</h3>
 		
-				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/gazette.png" width="75" height="75"><a href="Colorado Springs nonprofit that pioneered CBD for epileptic seizures now exploring psychedelics"><strong>Symposium in Aspen a day-long dive into healing with psychedelics. </strong> Interview featured in The Gazette </a>
+				<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/gazette.png" width="75" height="75"><a href="Colorado Springs nonprofit that pioneered CBD for epileptic seizures now exploring psychedelics"><strong>Sister organization to Colorado nonprofit that pioneered CBD for epileptic seizures exploring psychedelics.</strong> Interview featured in The Gazette.</a>
 <br />	
 <br />	
 		
