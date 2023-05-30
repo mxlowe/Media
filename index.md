@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 		
+		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Aspen-Daily-News-logo.jpg" width="75" height="75"><a href="https://www.aspendailynews.com/news/inaugural-aspen-psychedelic-symposium-coming-next-friday/article_28748ec0-fc73-11ed-a60e-5b8a891fc25d.html"><strong>Inaugural Aspen Psychedelic Symposium coming next Friday. </strong> Feature for upcoming symposium in Aspen Daily News</a>
+<br />	
+<br />	
+		
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/biglife.png" width="75" height="75"><a href="https://www.biglifemag.com/learn-from-experts-at-the-aspen-psychedelic-symposium/"><strong>Learn from Experts at the Aspen Psychedelic Symposium.</strong> Feature for upcoming symposium in Big Life Magazine</a>
 <br />	
 <br />	
