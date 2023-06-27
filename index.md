@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/fda-opens-discussion-on-psychedelics-in-clinical-trials-to-guide-the-industry.html"><strong> FDA opens discussion on psychedelics in clinical trials to guide the industry. </strong> Interview published in Nutrition Insight.</a>
+<br />	
+			<br />	
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/microdose.jpg" width="75" height="75"><a href="https://themicrodose.substack.com/p/dispatches-from-denver-day-3-at-psychedelic"><strong>Dispatches from Denver: Day 3 at Psychedelic Science 2023. </strong> Research featured in The Microdose. </a>
 <br />	
 <br />	
