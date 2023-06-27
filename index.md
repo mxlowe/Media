@@ -7,7 +7,13 @@
 <br>
 <br>
 <h3>Research in the news</h3>
-		
+
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/microdose.jpg" width="75" height="75"><a href="https://themicrodose.substack.com/p/dispatches-from-denver-day-3-at-psychedelic"><strong>Dispatches from Denver: Day 3 at Psychedelic Science 2023. </strong> Research featured in The Microdose. </a>
+<br />	
+<br />	
+  		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/westword.png" width="75" height="75"><a href="https://www.westword.com/marijuana/psychedelics-science-conference-denver-17097194"><strong>A Major Psychedelics Conference Will Take Over Denver Next Week. </strong> Interview featured in Westword. </a>
+<br />	
+<br />	
 		<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/Aspen-Daily-News-logo.jpg" width="75" height="75"><a href="https://www.aspendailynews.com/news/inaugural-aspen-psychedelic-symposium-coming-next-friday/article_28748ec0-fc73-11ed-a60e-5b8a891fc25d.html"><strong>Inaugural Aspen Psychedelic Symposium coming next Friday. </strong> Feature for upcoming symposium in Aspen Daily News</a>
 <br />	
 <br />	
