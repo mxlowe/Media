@@ -8,6 +8,9 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/webmd-logo-2.jpeg" width="75" height="75"><a href="https://www.webmd.com/brain/news/20230712/how-psychedelics-can-heal-a-broken-mind"><strong>How Psychedelics Can Heal a Broken Mind. </strong> Interview published in WebMD. Syndicated to USA Today and Medscape. </a>
+<br />	
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/NIFBlogo.png" width="75" height="75"><a href="https://www.nutritioninsight.com/news/fda-opens-discussion-on-psychedelics-in-clinical-trials-to-guide-the-industry.html"><strong> FDA opens discussion on psychedelics in clinical trials to guide the industry. </strong> Interview published in Nutrition Insight.</a>
 <br />	
 			<br />	
