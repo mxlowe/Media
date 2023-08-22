@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20230822601067/en/Colorado-Nonprofit-Realm-of-Caring-Collaborating-on-Federal-Grant-for-Medicinal-Cannabis-and-CBD-Research"><strong>Colorado Nonprofit Realm of Caring Collaborating on Federal Grant for Medicinal Cannabis and CBD Research.</strong> Press Release published in Businesswire.</a>
+<br />		
+<br />
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/webmd-logo-2.jpeg" width="75" height="75"><a href="https://www.webmd.com/brain/news/20230712/how-psychedelics-can-heal-a-broken-mind"><strong>How Psychedelics Can Heal a Broken Mind. </strong> Interview published in WebMD. Syndicated to USA Today and Medscape. </a>
 <br />	
 <br />	
