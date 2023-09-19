@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20230919027264/en/Worlds-Largest-Study-on-Naturalistic-Psilocybin-Use-From-Unlimited-Sciences-Reveals-Lasting-Therapeutic-Benefits"><strong>World's Largest Study on Naturalistic Psilocybin Use From Unlimited Sciences Reveals Lasting Therapeutic Benefits.</strong> Press Release published in Businesswire.</a>
+<br />		
+<br />
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20230822601067/en/Colorado-Nonprofit-Realm-of-Caring-Collaborating-on-Federal-Grant-for-Medicinal-Cannabis-and-CBD-Research"><strong>Colorado Nonprofit Realm of Caring Collaborating on Federal Grant for Medicinal Cannabis and CBD Research.</strong> Press Release published in Businesswire.</a>
 <br />		
 <br />
