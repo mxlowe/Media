@@ -8,7 +8,19 @@
 <br>
 <h3>Research in the news</h3>
 
-<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20230919027264/en/Worlds-Largest-Study-on-Naturalistic-Psilocybin-Use-From-Unlimited-Sciences-Reveals-Lasting-Therapeutic-Benefits"><strong>World's Largest Study on Naturalistic Psilocybin Use From Unlimited Sciences Reveals Lasting Therapeutic Benefits.</strong> Press Release published in Businesswire.</a>
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/DB.png" width="75" height="75"><a href="https://doubleblindmag.com/sleep-on-shrooms/"><strong>Not Just a Daydream—Can Mushroom Trips Impact Your Sleep?</strong> Interview published in Double Blind.</a>
+<br />		
+<br />
+
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychH.JPG" width="75" height="75"><a href="https://psychedelichealth.co.uk/2023/09/20/psilocybin-naturalistic-settings-lasting-results/"><strong>Using psilocybin in naturalistic settings shows lasting results.</strong> Research published in Psychedelic Health.</a>
+<br />		
+<br />
+
+<p><img align="left" src="hhttps://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/newsbreaklogo.png" width="75" height="75"><a href="https://original.newsbreak.com/@ultra-unlimited-1778334/3162847288596-unlocking-the-healing-potential-of-psilocybin-world-s-largest-study-reveals-lasting-benefits"><strong>Unlocking the Healing Potential of Psilocybin: World's Largest Study Reveals Lasting Benefits. </strong> Research published in News Break.</a>
+<br />		
+<br />
+
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/bwlogo_square.png" width="75" height="75"><a href="https://www.businesswire.com/news/home/20230919027264/en/Worlds-Largest-Study-on-Naturalistic-Psilocybin-Use-From-Unlimited-Sciences-Reveals-Lasting-Therapeutic-Benefits"><strong>World's Largest Study on Naturalistic Psilocybin Use From Unlimited Sciences Reveals Lasting Therapeutic Benefits.</strong> Press Release published in Businesswire. Syndicated to Benzinga, MorningStar, and Yahoo! Finance</a>
 <br />		
 <br />
 
