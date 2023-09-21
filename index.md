@@ -16,7 +16,7 @@
 <br />		
 <br />
 
-<p><img align="left" src="hhttps://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/newsbreaklogo.png" width="75" height="75"><a href="https://original.newsbreak.com/@ultra-unlimited-1778334/3162847288596-unlocking-the-healing-potential-of-psilocybin-world-s-largest-study-reveals-lasting-benefits"><strong>Unlocking the Healing Potential of Psilocybin: World's Largest Study Reveals Lasting Benefits. </strong> Research published in News Break.</a>
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/newsbreaklogo.png" width="75" height="75"><a href="https://original.newsbreak.com/@ultra-unlimited-1778334/3162847288596-unlocking-the-healing-potential-of-psilocybin-world-s-largest-study-reveals-lasting-benefits"><strong>Unlocking the Healing Potential of Psilocybin: World's Largest Study Reveals Lasting Benefits. </strong> Research published in News Break.</a>
 <br />		
 <br />
 
