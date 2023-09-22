@@ -8,6 +8,14 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://psychedelicspotlight.com/the-biggest-psychedelic-news-stories-of-the-week-september-17th/" width="75" height="75"><a href="https://psychedelicspotlight.com/an-ayahuasca-ceremony-to-heal-refugee-trauma/"><strong> THE BIGGEST PSYCHEDELIC NEWS THIS WEEK – SEPTEMBER 17TH </strong> Research published in Psychedelic Spotlight.</a>
+<br />	
+<br />
+
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/CNW.png" width="75" height="75"><a href="https://cannabisnewsworld.com/2023/09/21/psilocybin-associated-with-significant-and-persisting-decreases-in-depression-anxiety-alcohol-misuse-and-more-new-study-finds/"><strong>Psilocybin Associated With ‘Significant’ And ‘Persisting’ Decreases In Depression, Anxiety, Alcohol Misuse And More, New Study Finds.</strong> Research published in Cannabis News world.</a>
+<br />		
+<br />
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/MM_logo.jpeg" width="75" height="75"><a href="https://www.marijuanamoment.net/psilocybin-associated-with-significant-and-persisting-decreases-in-depression-anxiety-alcohol-misuse-and-more-new-study-finds/"><strong>Psilocybin Associated With ‘Significant’ And ‘Persisting’ Decreases In Depression, Anxiety, Alcohol Misuse And More, New Study Finds.</strong> Research published in Marijuana Moment.</a>
 <br />		
 <br />
