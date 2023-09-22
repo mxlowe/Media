@@ -8,7 +8,7 @@
 <br>
 <h3>Research in the news</h3>
 
-<p><img align="left" src="https://psychedelicspotlight.com/the-biggest-psychedelic-news-stories-of-the-week-september-17th/" width="75" height="75"><a href="https://psychedelicspotlight.com/an-ayahuasca-ceremony-to-heal-refugee-trauma/"><strong> THE BIGGEST PSYCHEDELIC NEWS THIS WEEK – SEPTEMBER 17TH </strong> Research published in Psychedelic Spotlight.</a>
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/the-biggest-psychedelic-news-stories-of-the-week-september-17th/"><strong> THE BIGGEST PSYCHEDELIC NEWS THIS WEEK – SEPTEMBER 17TH </strong> Research published in Psychedelic Spotlight.</a>
 <br />	
 <br />
 
