@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/MM_logo.jpeg" width="75" height="75"><a href="https://www.marijuanamoment.net/psilocybin-associated-with-significant-and-persisting-decreases-in-depression-anxiety-alcohol-misuse-and-more-new-study-finds/"><strong>Psilocybin Associated With ‘Significant’ And ‘Persisting’ Decreases In Depression, Anxiety, Alcohol Misuse And More, New Study Finds.</strong> Research published in Marijuana Moment.</a>
+<br />		
+<br />
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/DB.png" width="75" height="75"><a href="https://doubleblindmag.com/sleep-on-shrooms/"><strong>Not Just a Daydream—Can Mushroom Trips Impact Your Sleep?</strong> Interview published in Double Blind.</a>
 <br />		
 <br />
