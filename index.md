@@ -8,6 +8,9 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/TDR.png" width="75" height="75"><a href="https://thedalesreport.com/psychedelics/tdrs-top-5-psychedelic-developments-for-the-week-of-september-18/"><strong> TDR’s Top 5 Psychedelic Developments For The Week Of September 18: 1. Psilocybin Associated With ‘Significant’ And ‘Persisting’ Decreases In Depression, Anxiety, Alcohol Misuse And More, New Study Finds </strong> Research published in The Dales Report.</a>
+<br />
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/PsychSpot.JPG" width="75" height="75"><a href="https://psychedelicspotlight.com/the-biggest-psychedelic-news-stories-of-the-week-september-17th/"><strong> THE BIGGEST PSYCHEDELIC NEWS THIS WEEK – SEPTEMBER 17TH:  Magic in the Mushroom: Groundbreaking Study Reveals Lasting Mental Wellness Benefits of Psilocybin. </strong> Research published in Psychedelic Spotlight.</a>
 <br />	
 <br />
