@@ -8,7 +8,7 @@
 <br>
 <h3>Research in the news</h3>
 
-<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/cannabistechlogo.png" width="75" height="75"><a href="https://cannabistech.com/articles/ayahuasca-research/"><strong> Healing Shadows: Ayahuasca Research, Reducing Shame, and a New Road to Self-Compassion.</a>Profile and research published in Cannabis Tech.</a>
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/cannabistechlogo.png" width="75" height="75"><a href="https://cannabistech.com/articles/ayahuasca-research/"><strong> Healing Shadows: Ayahuasca Research, Reducing Shame, and a New Road to Self-Compassion.Profile and research published in Cannabis Tech.</a>
 <br />
 <br />
 
