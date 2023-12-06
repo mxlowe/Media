@@ -8,6 +8,10 @@
 <br>
 <h3>Research in the news</h3>
 
+<p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/cannabistechlogo.png" width="75" height="75"><a href="https://cannabistech.com/articles/ayahuasca-research/"><strong> Healing Shadows: Ayahuasca Research, Reducing Shame, and a New Road to Self-Compassion.</a>Profile and research published in Cannabis Tech.</a>
+<br />
+<br />
+
 <p><img align="left" src="https://raw.githubusercontent.com/mxlowe/mxlowe.github.io/master/TDR.png" width="75" height="75"><a href="https://thedalesreport.com/psychedelics/tdrs-top-5-psychedelic-developments-for-the-week-of-september-18/"><strong> TDR’s Top 5 Psychedelic Developments For The Week Of September 18: 1. Psilocybin Associated With ‘Significant’ And ‘Persisting’ Decreases In Depression, Anxiety, Alcohol Misuse And More, New Study Finds </strong> Research published in The Dales Report.</a>
 <br />
 
