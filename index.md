@@ -6,7 +6,7 @@
 		
 <br>
 <br>
-<h3>Personal Media Releases or Interviews</h3>
+<h3>News and Interviews</h3>
 
 <ol>
 <li><strong><a href="https://www.bizjournals.com/denver/news/2024/04/19/cannabis-market-lessons-psychedelic-industry.html">FLOWER FOLLOWER: How lessons from the cannabis industry will impact Colorado&rsquo;s budding psychedelic scene.</a> Denver Business Journal.</strong></li>
